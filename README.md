@@ -28,7 +28,6 @@ To understand and build reliable, scalable, and high-performance systems that so
 
 - 📫 How to reach me **jatingoyal01407@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 </p>
