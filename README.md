@@ -68,7 +68,7 @@ Preparing for my first software engineering role while continuously building pra
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jatin-goyal1407&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=jatin-goyal1407&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=jatin-goyal1407&color=blue&style=flat-square)
 
 ## 🐍 My Contributions
 
