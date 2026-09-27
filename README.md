@@ -55,9 +55,9 @@ Preparing for my first software engineering role while continuously building pra
 ## 🐍 My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
-  <img alt="GitHub contribution snake animation" src="dist/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatin-goyal1407/jatin-goyal1407/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jatin-goyal1407/jatin-goyal1407/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/jatin-goyal1407/jatin-goyal1407/output/github-snake.svg">
 </picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
