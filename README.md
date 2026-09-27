@@ -26,12 +26,6 @@ Instead of only studying technologies, I build practical labs and projects to un
 
 **How it works → Why it exists → How to use it → How it fails → How to debug it → How it behaves in production**
 
-## 🎯 Long-Term Direction
-
-**Backend Engineering → Distributed Systems → Production Engineering → Senior/Staff-Level Engineering**
-
-I'm currently focused on becoming genuinely strong at the fundamentals and gradually taking on more complex engineering problems.
-
 ## 📂 What You'll Find Here
 
 My repositories contain practical experiments, execution labs, projects, notes, and implementations covering different areas of software engineering.
