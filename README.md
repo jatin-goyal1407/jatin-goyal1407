@@ -1,5 +1,51 @@
 # 💫 About Me:
-Hi, I'm Jatin Goyal 👋<br>Aspiring Backend Engineer | Systems & Distributed Systems<br><br>I'm a Computer Science graduate focused on building strong foundations in backend engineering, APIs, databases, distributed systems, and production engineering.<br><br>My long-term goal is to become a strong **Backend Engineer** capable of designing, building, debugging, and operating reliable systems at scale.<br><br>## 🛠️ What I'm Working On<br><br>* Backend development and API engineering<br>* Databases and data-intensive systems<br>* Distributed systems and concurrency<br>* Performance & capacity engineering<br>* Docker, Kubernetes & cloud infrastructure<br>* Observability, monitoring & production debugging<br>* System Design and Low-Level Design<br><br><br>🧪 My Approach<br><br>I learn primarily through execution.<br><br>Instead of only studying technologies, I build practical labs and projects to understand:<br><br>**How it works → Why it exists → How to use it → How it fails → How to debug it → How it behaves in production**<br><br><br>I'm currently focused on becoming genuinely strong at the fundamentals and gradually taking on more complex engineering problems.<br><br>## 📂 What You'll Find Here<br><br>My repositories contain practical experiments, execution labs, projects, notes, and implementations covering different areas of software engineering.<br><br>Some repositories are learning labs rather than polished products — their purpose is to document **real hands-on learning and engineering practice**.<br><br>## 🚀 Currently<br><br>Preparing for my first software engineering role while continuously building practical engineering experience.<br><br>> Learning deeply. Building consistently. Improving one system at a time.<br><br>📫 Feel free to explore my repositories and follow along with the journey.<br>
+# Hi, I'm Jatin Goyal 👋
+
+### Aspiring Backend Engineer | Systems & Distributed Systems
+
+I'm a Computer Science graduate focused on building strong foundations in **backend engineering, APIs, databases, distributed systems, and production engineering**.
+
+My long-term goal is to become a strong **Backend Engineer** capable of designing, building, debugging, and operating reliable systems at scale.
+
+## 🛠️ What I'm Working On
+
+* Backend development and API engineering
+* Databases and data-intensive systems
+* Distributed systems and concurrency
+* Performance & capacity engineering
+* Docker, Kubernetes & cloud infrastructure
+* Observability, monitoring & production debugging
+* System Design and Low-Level Design
+* Building production-oriented engineering projects
+
+## 🧪 My Approach
+
+I learn primarily through **execution**.
+
+Instead of only studying technologies, I build practical labs and projects to understand:
+
+**How it works → Why it exists → How to use it → How it fails → How to debug it → How it behaves in production**
+
+## 🎯 Long-Term Direction
+
+**Backend Engineering → Distributed Systems → Production Engineering → Senior/Staff-Level Engineering**
+
+I'm currently focused on becoming genuinely strong at the fundamentals and gradually taking on more complex engineering problems.
+
+## 📂 What You'll Find Here
+
+My repositories contain practical experiments, execution labs, projects, notes, and implementations covering different areas of software engineering.
+
+Some repositories are learning labs rather than polished products — their purpose is to document **real hands-on learning and engineering practice**.
+
+## 🚀 Currently
+
+Preparing for my first software engineering role while continuously building practical engineering experience.
+
+> Learning deeply. Building consistently. Improving one system at a time.
+
+📫 Feel free to explore my repositories and follow along with the journey.
+
 
 
 # 💻 Tech Stack:
